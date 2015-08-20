@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://work.locojoy.com/updatafile/apps/cloudcontacts_20150819_1000.ipa</string>
+                        <string>http://work.locojoy.com/updatafile/apps/cloudcontacts_20150820_2000.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -26,13 +26,13 @@
                     <key>bundle-identifier</key>
                     <string>com.locojoy.yunmai</string>
                     <key>bundle-version</key>
-                    <string>1.0.819</string>
+                    <string>1.0.820</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
                     <string>卓越通讯录</string>
                     <key>title</key>
-                    <string>卓越通讯录1.0.819版本</string>
+                    <string>卓越通讯录1.0.820版本</string>
                 </dict>
             </dict>
         </array>
