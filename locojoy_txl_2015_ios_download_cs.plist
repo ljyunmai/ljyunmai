@@ -26,13 +26,13 @@
                     <key>bundle-identifier</key>
                     <string>com.locojoy.yunmai</string>
                     <key>bundle-version</key>
-                    <string>1.0.1</string>
+                    <string>1.0.2</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
                     <string>卓越通讯录</string>
                     <key>title</key>
-                    <string>卓越通讯录1.0.1(测试)版本</string>
+                    <string>卓越通讯录1.0.2(测试)版本</string>
                 </dict>
             </dict>
         </array>
