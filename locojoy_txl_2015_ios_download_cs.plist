@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://update2.locojoy.com/txl/20150824/zytxl_1.0.3.ipa</string>
+                        <string>http://update2.locojoy.com/txl/20150824/zytxl_1.0.4.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -26,13 +26,13 @@
                     <key>bundle-identifier</key>
                     <string>com.locojoy.yunmai</string>
                     <key>bundle-version</key>
-                    <string>1.0.3</string>
+                    <string>1.0.4</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
                     <string>卓越通讯录</string>
                     <key>title</key>
-                    <string>卓越通讯录1.0.3(测试)版本</string>
+                    <string>卓越通讯录1.0.4(测试)版本</string>
                 </dict>
             </dict>
         </array>
